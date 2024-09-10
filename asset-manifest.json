@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dark-Mode-Toggle/static/css/main.2ad26b74.css",
+    "main.js": "/Dark-Mode-Toggle/static/js/main.8fce62fa.js",
+    "index.html": "/Dark-Mode-Toggle/index.html",
+    "main.2ad26b74.css.map": "/Dark-Mode-Toggle/static/css/main.2ad26b74.css.map",
+    "main.8fce62fa.js.map": "/Dark-Mode-Toggle/static/js/main.8fce62fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ad26b74.css",
+    "static/js/main.8fce62fa.js"
+  ]
+}
